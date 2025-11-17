@@ -1,7 +1,7 @@
 // Ball.tsx
 import React from "react";
 import { Float, Decal, useTexture } from "@react-three/drei";
-import { MeshStandardMaterial } from "three";
+
 
 type BallProps = {
   imgUrl: string;
